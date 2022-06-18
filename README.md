@@ -10,7 +10,10 @@ npm install
 npm run serve
 ```
 
+![image-20220618135111771](README.assets/image-20220618135111771.png)
+
 ### Compiles and minifies for production
+
 ```
 npm run build
 ```
